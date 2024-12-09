@@ -2,14 +2,19 @@
 # Hello! 👋  
 
 I am currently an **SDET (Software Development Engineer in Test)** specializing in **Python** at **Commvault Company**.  
-With **4 years of experience** in a fast-paced environment, I have developed a strong foundation in **web development** and am eager to contribute to **product development**.  
+With **4 years of experience**, I have developed strong skills in **web development**, **automation frameworks**, and **backend development**, and I am eager to contribute to **innovative projects**.  
 
 ---
 
 ## My Role  
-- Automating processes, from simple tasks to building comprehensive test automation frameworks.  
-- Ensuring **efficient, high-quality software delivery** through robust automation.  
-- Passionate about **improving efficiency** and solving complex problems.  
+- **Voluntarily contributing** to product code to enhance features and functionality.  
+- Developing robust **automation frameworks** for the test team to streamline processes and ensure quality.  
+
+---
+
+## Past Experience  
+- I have prior experience in **Android development**, and you can find most of my work related to it in my repositories.  
+- I am a **Python enthusiast** with hands-on experience building **web applications** using **FastAPI** and **Django frameworks**.  
 
 ---
 
@@ -26,6 +31,7 @@ With **4 years of experience** in a fast-paced environment, I have developed a s
 
 ## A Note About Contributions  
 - At work, we primarily use **GitLab**, so my contributions may not be visible here on **GitHub**. However, I am excited to showcase my skills in future collaborative projects!  
+
 
 
 
