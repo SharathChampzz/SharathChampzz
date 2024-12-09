@@ -1,5 +1,32 @@
 # 💫 About Me:
-Hello! 👋<br><br>I am currently working as an SDET (Software Development Engineer in Test) specializing in Python at Commvault Company. With 4 years of experience in a fast-paced environment, I have developed a strong foundation in web development and am enthusiastic about contributing my skills to product development.<br><br>In my current role, I handle a variety of tasks, ranging from automating simple processes to developing and enhancing comprehensive test automation frameworks to meet diverse needs. My work is driven by a passion for improving efficiency and ensuring high-quality software delivery.<br><br>I am a flexible and eager-to-learn candidate who strongly believes that hard work and consistency can overcome any challenge and lead to success. I am actively seeking a backend developer position where I can leverage my skills and experience to contribute to innovative projects and grow professionally.
+# Hello! 👋  
+
+I am currently an **SDET (Software Development Engineer in Test)** specializing in **Python** at **Commvault Company**.  
+With **4 years of experience** in a fast-paced environment, I have developed a strong foundation in **web development** and am eager to contribute to **product development**.  
+
+---
+
+## My Role  
+- Automating processes, from simple tasks to building comprehensive test automation frameworks.  
+- Ensuring **efficient, high-quality software delivery** through robust automation.  
+- Passionate about **improving efficiency** and solving complex problems.  
+
+---
+
+## Achievements  
+- 🏅 Received the **Gold Award** for efficient work and consistently staying at the **top of the activity matrix score board**.  
+
+---
+
+## Looking Ahead  
+- I am a **flexible and eager-to-learn professional** who believes that **hard work and consistency** lead to success.  
+- Actively seeking a **backend developer position** to leverage my skills and contribute to innovative projects.  
+
+---
+
+## A Note About Contributions  
+- At work, we primarily use **GitLab**, so my contributions may not be visible here on **GitHub**. However, I am excited to showcase my skills in future collaborative projects!  
+
 
 
 ## 🌐 Socials:
