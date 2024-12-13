@@ -1,7 +1,7 @@
 # 🚀 Professional Journey at Commvault
 
 ## 📝 Document Overview
-This markdown file captures a detailed chronicle of my professional growth and technical achievements at Commvault, spanning from an intern to a Senior Engineer. It provides an in-depth look at my technical contributions, project involvements, and professional development.
+This markdown file captures a detailed chronicle of my professional growth and technical achievements at Commvault, spanning from an intern to a Senior Engineer. It provides an brief look at my technical contributions, project involvements, and professional development.
 
 ---
 
@@ -10,12 +10,12 @@ This markdown file captures a detailed chronicle of my professional growth and t
 
 #### Key Achievements 🏆
 - **Defect Management**
-  - Created 50+ Defect Merge Requests
+  - Created 50+ Defects
   - Tested 75+ Forms and Hotfixes
 
 - **Technical Requests**
-  - Worked on 7 Customer Technical Requests
-  - Reproduced issues for 2 Technical Requests
+  - Worked on 17 Customer Technical Requests
+  - Reproduced issues for 6 Technical Requests
 
 - **Performance Analysis** 📊
   - Utilized Locust performance testing tool
