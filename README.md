@@ -1,6 +1,7 @@
 # Hello! 👋  
 
-I am currently an **SDET (Software Development Engineer in Test)** specializing in **Python** at **Commvault Company**.  
+I am **Senior Engineer** at **Commvault Company**, specializing in **Python**
+
 With **4 years of experience**, I have developed strong skills in **web development**, **automation frameworks**, and **backend development**, and I am eager to contribute to **innovative projects**.  
 
 ---
