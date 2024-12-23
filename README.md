@@ -1,6 +1,6 @@
 # Hello! 👋  
 
-I am **Senior Engineer** at **Commvault Company**, specializing in **Python**
+I am **Senior Engineer** at **Commvault Company**, specializing in **Python**, **C#**
 
 With **4 years of experience**, I have developed strong skills in **web development**, **automation frameworks**, and **backend development**, and I am eager to contribute to **innovative projects**.  
 
